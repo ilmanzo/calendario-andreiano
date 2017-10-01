@@ -25,7 +25,7 @@ ca_durata_mesi=[33,33,33,33,34,34,33,33,33,33,33]
 ca_giorno_settimana_attuale=4 #inizio di mercoledi
 ca_mese_attuale=0
 ca_giorno_attuale=0
-ca_anno_attuale=2014
+ca_anno_attuale=2017
 
 d=Date.new(2017,1,1)
 
