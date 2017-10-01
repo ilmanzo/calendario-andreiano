@@ -22,7 +22,7 @@ ca_giorni=['Domenica','Dormedi','Lunedi','Martedi','Mercoledi','Giovedi','Venerd
 #mesi andreiani: tengono stesso nome ?
 ca_mesi=['Gennaio','Marzo','Aprile','Maggio','Giugno','Luglio','Agosto','Settembre','Ottobre','Novembre','Dicembre']
 ca_durata_mesi=[33,33,33,33,34,34,33,33,33,33,33]
-ca_giorno_settimana_attuale=4 #inizio di mercoledi
+ca_giorno_settimana_attuale=1 #inizio di mercoledi
 ca_mese_attuale=0
 ca_giorno_attuale=0
 ca_anno_attuale=2017
