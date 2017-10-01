@@ -6,7 +6,7 @@
 #- non ci saranno piu' le settimane ma le ottimane...
 #- il giorno lavorativo sara' di 9 ore e un quarto
 
-#inizio il 1/1/2014 (mercoledì)
+#inizio il 1/1/2017 (domenica)
 
 #TODO chiarire quali sono i mesi da 34 giorni
 #TODO come si chiamano i mesi
@@ -22,12 +22,12 @@ ca_giorni=['Domenica','Dormedi','Lunedi','Martedi','Mercoledi','Giovedi','Venerd
 #mesi andreiani: tengono stesso nome ?
 ca_mesi=['Gennaio','Marzo','Aprile','Maggio','Giugno','Luglio','Agosto','Settembre','Ottobre','Novembre','Dicembre']
 ca_durata_mesi=[33,33,33,33,34,34,33,33,33,33,33]
-ca_giorno_settimana_attuale=4 #inizio di mercoledi
+ca_giorno_settimana_attuale=1 #inizio di domenica
 ca_mese_attuale=0
 ca_giorno_attuale=0
-ca_anno_attuale=2014
+ca_anno_attuale=2017
 
-d=Date.new(2014,1,1)
+d=Date.new(2017,1,1)
 
 loop do 
   data_standard=d.strftime("%d/%m/%Y")
