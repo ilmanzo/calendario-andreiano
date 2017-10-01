@@ -18,7 +18,7 @@ require 'date'
 giorni=['Domenica','Lunedi','Martedi','Mercoledi','Giovedi','Venerdi','Sabato']
 
 #giorni andreiani
-ca_giorni=['Domenica','Dormedi','Lunedi','Martedi','Mercoledi','Giovedi','Venerdi','Sabato']
+ca_giorni=['Domenica','Dormedi','Lunedi','Martedi','Mercoledi','Giovedi','Beverdi','Sabato']
 #mesi andreiani: tengono stesso nome ?
 ca_mesi=['Gennaio','Marzo','Aprile','Maggio','Giugno','Luglio','Agosto','Settembre','Ottobre','Novembre','Dicembre']
 ca_durata_mesi=[33,33,33,33,34,34,33,33,33,33,33]
