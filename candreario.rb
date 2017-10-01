@@ -27,7 +27,7 @@ ca_mese_attuale=0
 ca_giorno_attuale=0
 ca_anno_attuale=2014
 
-d=Date.new(2014,1,1)
+d=Date.new(2017,1,1)
 
 loop do 
   data_standard=d.strftime("%d/%m/%Y")
